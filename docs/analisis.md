@@ -1,6 +1,6 @@
 # Análisis de Clientes
 
-_Generado el 12/06/2026 · Fecha de referencia: 29/02/2020_
+_Generado el 13/06/2026 · Fecha de referencia: 29/02/2020_
 
 ## 1. Distribución del Gasto por Cliente
 
